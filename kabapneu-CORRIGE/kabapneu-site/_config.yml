@@ -1,0 +1,17 @@
+# GitHub Pages config for Kaba Pneus
+title: Kaba Pneus
+description: Pneus & Mécanique dans le Pas-de-Calais
+url: https://workflowsny.github.io/kabapneu
+baseurl: /kabapneu
+
+# Jekyll settings
+markdown: kramdown
+theme: null
+plugins: []
+
+# Keep files
+keep_files:
+  - index.html
+  - .htaccess
+  - robots.txt
+  - sitemap.xml
