@@ -1,0 +1,31 @@
+{
+  "rewrites": [
+    { "source": "/contact", "destination": "/contact.html" },
+    { "source": "/tarifs", "destination": "/tarifs.html" },
+    { "source": "/a-propos", "destination": "/a-propos.html" },
+    { "source": "/marque-iris", "destination": "/marque-iris.html" },
+    { "source": "/mecanique", "destination": "/mecanique.html" },
+    { "source": "/blog", "destination": "/blog.html" },
+    { "source": "/pneus", "destination": "/pneus.html" },
+    { "source": "/mentions-legales", "destination": "/mentions-legales.html" },
+    { "source": "/cgv", "destination": "/cgv.html" },
+    { "source": "/confidentialite", "destination": "/confidentialite.html" },
+    { "source": "/cookies", "destination": "/cookies.html" },
+    { "source": "/centres/vermelles", "destination": "/centres/vermelles.html" },
+    { "source": "/centres/harnes", "destination": "/centres/harnes.html" },
+    { "source": "/pneus/voiture", "destination": "/pneus/voiture.html" },
+    { "source": "/pneus/poids-lourd", "destination": "/pneus/poids-lourd.html" },
+    { "source": "/pneus/agricole", "destination": "/pneus/agricole.html" },
+    { "source": "/pneus/4x4-suv", "destination": "/pneus/4x4-suv.html" },
+    { "source": "/pneus/utilitaire", "destination": "/pneus/utilitaire.html" },
+    { "source": "/pneus/moto-scooter", "destination": "/pneus/moto-scooter.html" },
+    { "source": "/pneus/occasion", "destination": "/pneus/occasion.html" },
+    { "source": "/services/pneus-montage", "destination": "/services/pneus-montage.html" },
+    { "source": "/services/direction-parallelisme", "destination": "/services/direction-parallelisme.html" },
+    { "source": "/services/suspension", "destination": "/services/suspension.html" },
+    { "source": "/services/moteur-vidange", "destination": "/services/moteur-vidange.html" },
+    { "source": "/services/freinage", "destination": "/services/freinage.html" },
+    { "source": "/services/depannage-pl", "destination": "/services/depannage-pl.html" },
+    { "source": "/blog/comment-lire-dimensions-pneu", "destination": "/blog/comment-lire-dimensions-pneu.html" }
+  ]
+}
